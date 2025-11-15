@@ -69,23 +69,23 @@ Finsight is an AI-powered personal finance tracker built with Streamlit and Pyth
 ## 📸 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](assets/screenshots/login.png)
 *Secure user authentication interface*
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](assets/screenshots/dashboard.png)
 *Main dashboard showing current balance and quick actions*
 
 ### Transaction Logging
-![Transaction Log](screenshots/transaction_log.png)
+![Transaction Log](assets/screenshots/transaction_log.png)
 *Add expenses and income with detailed categorization*
 
 ### Financial Reports
-![Financial Reports](screenshots/reports.png)
+![Financial Reports](assets/screenshots/reports.png)
 *Interactive charts showing expense breakdown and trends*
 
 ### AI Assistant (FinBot)
-![FinBot](screenshots/finbot.png)
+![FinBot](assets/screenshots/finbot.png)
 *AI-powered financial assistant for budgeting advice*
 
 ## 🔧 Project Structure
@@ -105,8 +105,9 @@ Finsight/
 │   ├── __init__.py
 │   ├── expenseTracker.py  # Core expense tracking logic
 │   └── finbot.py         # AI assistant module
-├── img/                   # Static images
-└── screenshots/           # Screenshots for README
+├── assets/                # Static assets
+│   └── screenshots/       # Screenshots for README
+└── img/                   # Static images
 ```
 
 ## 🤖 FinBot - AI Assistant
@@ -131,14 +132,6 @@ FinBot is powered by Cohere's advanced language models and provides:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Sakshi & Shahu** - *Initial work and development*
 
 ## 🙏 Acknowledgments
 
