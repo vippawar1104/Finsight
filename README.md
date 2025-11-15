@@ -72,10 +72,6 @@ Finsight is an AI-powered personal finance tracker built with Streamlit and Pyth
 ![Login Page](assets/screenshots/login.png)
 *Secure user authentication interface*
 
-### Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
-*Main dashboard showing current balance and quick actions*
-
 ### Transaction Logging
 ![Transaction Log](assets/screenshots/transaction_log.png)
 *Add expenses and income with detailed categorization*
